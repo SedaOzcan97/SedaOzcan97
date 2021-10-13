@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**SedaOzcan97/SedaOzcan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there👋, I'm Seda</h1>
 
-Here are some ideas to get you started:
+ I'm a Software Engineer. 
+- 🔭I'm currently working on Dijital Strateji Bilişim Şirketleri.
+- 🌱 I'm learning now React,.NET
+- 👯 I graduated from ADU- Computer Engineering department in 2020.
+- 🌱I'm currently working on Front-end Development. I'm tryin to become a Fullstack Developer, In this way, I'm learning about Back-end Development and I'm learning about Project management processes.
+- 📫 You can reach me "seda.ozcan73665@gmail.com" 
+- 💬 Ask me about HTML, CSS, JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sedaozcan1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/emrebilal/emrebilal/main/assets/linkedin.svg" alt="emrebilal21" height="30" width="35" /></a>
+<a href="https://instagram.com/seda0zcann" target="_blank"><img align="center" src="https://raw.githubusercontent.com/emrebilal/emrebilal/main/assets/instagram.svg" alt="emreebilall" height="30" width="35" /></a>
+<a href="https://twitter.com/Sedaozcan1997" target="_blank"><img align="center" src="https://raw.githubusercontent.com/emrebilal/emrebilal/main/assets/twitter-new.svg" alt="emrebilall" height="30" width="35" /></a>
+
+</p>

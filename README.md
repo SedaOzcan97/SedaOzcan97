@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Seda</h1>
 
  I'm a Software Engineer. 
-- 🔭I'm currently working on Dijital Strateji Bilişim Şirketleri.
+- 🔭I'm currently working on Portalgrup.
 - 🌱 I'm learning now React,.NET
 - 👯 I graduated from ADU- Computer Engineering department in 2020.
 - 🌱I'm currently working on Front-end Development. I'm tryin to become a Fullstack Developer, In this way, I'm learning about Back-end Development and I'm learning about Project management processes.
